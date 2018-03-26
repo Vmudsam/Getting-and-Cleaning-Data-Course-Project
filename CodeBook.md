@@ -1,5 +1,4 @@
-
-#Download data 
+# Download data 
 Download sourse data from link below and unzip it to working directory of R Studio.
 
 The zip file provided contains the following files with data: X_train, y_train, X_test, y_test, subject_train and subject_test.
@@ -31,9 +30,7 @@ Activity lables:
 5 STANDING 
 
 6 LAYING 
-
-
- #R script 
+# R script 
  
  R script called run_analysis.R does the following:
  
